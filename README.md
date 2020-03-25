@@ -1,5 +1,5 @@
-# omnistack11
-Semana OmniStack 11
+# Semana OmniStack 11
 
 be -> Back-end (Node.js)
+
 fe -> Front-end (React)
