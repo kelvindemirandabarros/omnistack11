@@ -1,5 +1,7 @@
 # Semana OmniStack 11
 
-be -> Back-end (Node.js)
+'be' é a pasta do Back-end (Node.js)
 
-fe -> Front-end (React)
+'fe' é a pasta do Front-end (React)
+
+
