@@ -51,7 +51,7 @@ export default function NewIncident() {
 
                     <Link className='back-link' to='/profile'>
                         <FiArrowLeft size={16} color='#e02041' />
-                        Voltar para página inicial
+                        Voltar para página do perfil
                     </Link>
                 </section>
 
